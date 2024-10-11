@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Ekolllon
+- 👀 I’m interested in making simple games
+- 🌱 I’m currently learning python
+- 💞️ I’m very new to coding
+- 📫 How to reach me discord
+- 😄 Pronouns: he
+- ⚡ Fun fact: i play minecraft  and is very good at it
