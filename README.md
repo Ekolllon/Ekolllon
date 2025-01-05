@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ekolllon
-- 👀 I’m interested in making simple games
-- 🌱 I’m currently learning python
-- 💞️ I’m very new to coding
-- 📫 How to reach me discord
+- 👋 Hi, I’m Ekollon.
+- 👀 I’m interested in making simple games and discord bots in python.
+- 🌱 I’m currently learning to solder and making discord bots and some hacking.
+- 💞️ I’m new to coding so im not the best  but not the worst.
+- 📫 How to reach me by dms in discord.
 - 😄 Pronouns: he
-- ⚡ Fun fact: i play minecraft  and is very good at it
+- ⚡ Fun fact: i play minecraft  and im very good at it i have 2 pcs running 24/7.
